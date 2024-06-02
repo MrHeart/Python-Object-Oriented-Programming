@@ -1,4 +1,6 @@
 # Object Oriented Programming Module
+All the artefacts created during the OOP module are contained in this repository. In each unit, the file(s) that were created in the unit are identified and listed so that it is easy to be identified in the list.
+
 ## Unit 1
 protected_and_unprotected_variables.py 
 
